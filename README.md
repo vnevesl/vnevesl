@@ -1,19 +1,41 @@
-### Hi, I'm Vitor 👋
+## Hi, I'm Vitor 👋
 
-🎓 Data Science & AI student at IBMEC, focused on Generative AI and Full-Stack Development.
+🎓 Data Science & AI student at **IBMEC**, focused on Generative AI and Full-Stack Development.
 
-💼 BI Team @ 3Ariva Investimentos
+💼 BI Team @ **3Ariva Investimentos**
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vitorneves@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
 
 ---
 
-**Languages & Frameworks**
+### 💻 Languages & Frameworks
 
-Python · TypeScript · JavaScript · FastAPI · Next.js · React · Node.js · Express
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="FastAPI" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express" />
 
-**AI & Data**
+### 🤖 AI & Data
 
 Google Gemini · Veo · EasyOCR · Prompt Engineering · Machine Learning · Data Science
 
-**Databases & Cloud**
+### 🛠️ Databases & Infrastructure
 
-PostgreSQL · SQLAlchemy · Azure SQL · Google Cloud Storage · Docker · Render
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="30" alt="SQLAlchemy" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="Azure" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="GCP" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
+
+---
+
+### 🌱 Currently Learning
+
+- Machine Learning & Deep Learning
+- Generative AI (LLMs, Image Generation, Video Generation)
+- Cloud Infrastructure & DevOps
