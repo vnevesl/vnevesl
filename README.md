@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm Vitor 👋
 
-<!--
-**vnevesl/vnevesl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science & AI student at IBMEC, focused on Generative AI and Full-Stack Development.
 
-Here are some ideas to get you started:
+💼 BI Team @ 3Ariva Investimentos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Languages & Frameworks**
+
+Python · TypeScript · JavaScript · FastAPI · Next.js · React · Node.js · Express
+
+**AI & Data**
+
+Google Gemini · Veo · EasyOCR · Prompt Engineering · Machine Learning · Data Science
+
+**Databases & Cloud**
+
+PostgreSQL · SQLAlchemy · Azure SQL · Google Cloud Storage · Docker · Render
