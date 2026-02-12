@@ -22,7 +22,7 @@
 
 ### 🤖 AI & Data
 
-Google Gemini · Veo · EasyOCR · Prompt Engineering · Machine Learning · Data Science
+Google Gemini · Veo · EasyOCR · Prompt Engineering · Machine Learning · Data Science · AI Image & Video Generation · WhatsApp Chatbots · BI Dashboards
 
 ### 🛠️ Databases & Infrastructure
 
@@ -37,5 +37,6 @@ Google Gemini · Veo · EasyOCR · Prompt Engineering · Machine Learning · Dat
 ### 🌱 Currently Learning
 
 - Machine Learning & Deep Learning
-- Generative AI (LLMs, Image Generation, Video Generation)
+- Generative AI (LLMs, Image & Video Generation)
+- WhatsApp Automation & Chatbot Architecture
 - Cloud Infrastructure & DevOps
