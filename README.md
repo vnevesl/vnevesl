@@ -1,11 +1,19 @@
-## Hi, I'm Vitor 👋
+<div align="center">
+
+# Vitor Neves
+
+**BI & Data Analyst** · Building production systems that drive real business decisions
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-neves-665021304/)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:vitornevesl@hotmail.com)
+
+</div>
+
+---
 
 🎓 Data Science & AI student at **IBMEC**, focused on Generative AI and Full-Stack Development.
 
 💼 BI Team @ **3Ariva Investimentos**
-
-[![Outlook](https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:vitornevesl@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-neves-665021304/)
 
 ---
 
@@ -40,3 +48,15 @@ Google Gemini · Veo · EasyOCR · Prompt Engineering · Machine Learning · Dat
 - Generative AI (LLMs, Image & Video Generation)
 - WhatsApp Automation & Chatbot Architecture
 - Cloud Infrastructure & DevOps
+- AI-assisted development (Claude Code, context engineering, specialized agents)
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=vnevesl&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnevesl&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
+</div>
