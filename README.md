@@ -50,13 +50,3 @@ Google Gemini · Veo · EasyOCR · Prompt Engineering · Machine Learning · Dat
 - Cloud Infrastructure & DevOps
 - AI-assisted development (Claude Code, context engineering, specialized agents)
 
----
-
-### GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vnevesl&theme=github_dark" />
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vnevesl&theme=github_dark" />
-
-</div>
