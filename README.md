@@ -56,7 +56,7 @@ Google Gemini · Veo · EasyOCR · Prompt Engineering · Machine Learning · Dat
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=vnevesl&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnevesl&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vnevesl&theme=github_dark" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vnevesl&theme=github_dark" />
 
 </div>
